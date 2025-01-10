@@ -1,4 +1,11 @@
 # Aplikasi-Manajemen-User-Asp.Net-Core
+
+https://github.com/gtechsltn/sbadmin-mvc5
+
+https://github.com/gtechsltn/sb-admin-2-bootstrap-template-asp-mvc
+
+https://github.com/go2ismail/Aplikasi-Manajemen-User-Asp.Net-Core
+
 Projek starter dengan modul manajemen user lengkap plus contoh penerapan nya dalam aplikasi inventory dengan 25+ halaman CRUD menggunakan control Syncfusion.
 
 Dapat digunakan sebagai project starter untuk mendevelop aplikasi yang lebih besar ataupun bisa juga digunakan sebagai rujukan dan referensi trik-trik seputar Web API dan JQuery.
